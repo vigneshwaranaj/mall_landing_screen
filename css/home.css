@@ -1,0 +1,268 @@
+.nav-item
+{
+    font-family: 'raleway-medium';
+    font-size: 1.2rem;
+}
+
+.about_btn
+{
+    border: none;
+    background-color: #fff;
+    font-family: 'raleway-medium';
+    padding: 20px 100px;
+}
+.landing_image_container
+{
+    height: calc(100vh - (80px));
+}
+
+.landing_image_container .title
+{
+    font-size: 5vw;
+    font-family: 'raleway-bold';
+    line-height: 1.2;
+    color: #fff;
+}
+.landing_image_container .content
+{
+    font-size: 2vw;
+    color: #fff;
+}
+.remagin_bg
+{
+    background: url('../resource/reimagine.png');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.break_usual_bg
+{
+    background: url('../resource/Break the usual.png');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.yellow_bg
+{
+    background-color: #f8d561;
+    font-size: 1.2vw;
+}
+.normal_font
+{
+    font-size: 1.2vw;
+}
+.font-bold
+{
+    font-family: 'raleway-bold';
+}
+.blue_bg
+{
+    background-color: rgb(120, 190, 201);
+    color: rgb(255, 255, 255);
+    padding: 15vh 8vw !important;
+}
+.blue_bg .fifth_floor
+{
+    font-size: 5vw;
+    font-family: 'raleway-bold';
+    text-align: center;
+}
+.blue_bg .newly_added
+{
+    letter-spacing: 1vw;
+    font-size: 2vw;
+    font-family: 'raleway-light';
+    text-align: center;
+}
+.blue_bg .new_card
+{
+    background-color: #fff;
+    color: #78bec9;
+    font-size: 1.5vw;
+    font-family: 'raleway-bold';
+    box-shadow: -25px 25px 0px rgb(255,255,255,.5);
+    position: relative;
+    z-index: 9;
+    padding: 5rem;
+}
+.gray_bg
+{
+    background-color: #ebebeb;
+}
+.fifth_floor_img
+{
+    position: relative;
+    left: -25%;
+    z-index: 0;
+    height: 70vh;
+}
+
+.white_curve
+{
+    background-color: #fff;
+    border-radius: 50px;
+    padding: 4rem;
+    font-size: 1.2vw;
+    font-family: 'raleway-medium';
+    height: 100%;
+}
+.features:before
+{
+    content: 'FEATURES';
+    position: absolute;
+    left: -125px;
+    font-size: 10vh;
+    transform: rotate(270deg);
+    top: 0px;
+    bottom: 0px;
+    color: #fff;
+    font-family: 'raleway-bold';
+}
+.bulding_img
+{
+    position: absolute;
+    top: -100%;
+    left: 0px;
+}
+
+.amenities_title
+{
+    color: #fff;
+    padding: 1rem;
+    background-color: #a72c29;
+    font-family: 'raleway-medium';
+    font-size: 2.5vw;
+    letter-spacing: 20px;
+    text-align: center;
+}
+.power_bkp_bg
+{
+    background-color: #a72c29;
+}
+.power_bkp_bg_img
+{
+    background: url('../resource/reimagine.png');
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.amenities_content_head
+{
+    font-family: 'raleway-bold';
+    font-size: 2.5vw;
+    color: #fff;
+}
+.amenities_content
+{
+    color: #fff;
+    font-size: 1.3vw;
+    margin-top: 1.5rem;
+}
+.escalater_bg
+{
+    background-color: #b63f23;
+}
+.camera_bg
+{
+    background-color: #ec8947;
+}
+.working_office_bg
+{
+    background-color: #f8d561;
+}
+.water_available_bg
+{
+    background-color: #9ddca4;
+}
+.security_bg
+{
+    background-color: #97ddc0;
+}
+.parking_bg
+{
+    background-color: #78bec9;
+}
+.map_bg
+{
+    background-color: #000;
+}
+.contact_container .head
+{
+    font-size: 1.8vw;
+    font-family: 'raleway-bold';
+    line-height: 1.2;
+    letter-spacing: 2.5px;
+}
+.contact_container input, .contact_container textarea
+{
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid;
+    border-radius: 0;
+    padding: 25px 0px;
+}
+.contact_container button
+{
+    color: #fff;
+    background-color: #0c005a;
+    border: none;
+    font-family: 'raleway-medium';
+    font-size: 1.2vw;
+    padding: 12px 65px;
+}
+.navbar-light .navbar-brand
+{
+    font-family: 'raleway-bold' !important;
+    font-size: 1.5vw !important;
+}
+.light_blue_bg
+{
+    background-color: #78bec9
+}
+
+.parelax_blue_cnt
+{
+    font-size: 1.2vw;
+    color: #fff;
+    line-height: 2.5;
+    font-family: 'raleway-medium';
+    padding: 5rem;
+    background-color: #78bec9;
+}
+.parelax_black_cnt
+{
+    font-size: 2.3vw;
+    line-height: 2;
+    font-family: 'raleway-medium';
+    padding: 5rem;
+    background-color: #000;
+    color: #fff;
+}
+.paralax_bg
+{
+    background: url('../resource/Break the usual.png');
+    background-size: 100%;
+    background-position: left;
+    background-repeat: no-repeat;
+    border-radius: 400px;
+}
+.owl-dots
+{
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 20px;
+}
+.squarfeet_txt
+{
+    font-family: 'raleway-bold';
+    font-size: 2.5vw;
+    letter-spacing: 3px;
+    margin-left: 5px;
+    margin-right: 5px;
+    line-height: normal;
+}
+.owl-carousel .owl-item img
+{
+    min-height: 300px !important;
+}
